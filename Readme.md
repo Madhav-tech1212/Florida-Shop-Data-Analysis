@@ -2,7 +2,7 @@
 
 > **End-to-End Data Analytics Project using Google BigQuery, SQL & Microsoft Power BI**
 
-![alt text](Dashboards/Sales_Dashboard.png)
+![Sales Dashboard](Dashboards/Sales_Dashboard.png)
 
 # 📌 Project Overview
 
@@ -176,17 +176,7 @@ Build an interactive dashboard
 
 > **Power BI Dashboard**
 
-Add your dashboard screenshot here.
-
-```text
-images/dashboard.png
-```
-
-Example:
-
-```markdown
-![Dashboard](images/dashboard.png)
-```
+![Sales Dashboard](Dashboards/Sales_Dashboard.png)
 
 ---
 
@@ -211,71 +201,66 @@ The dashboard provides the following KPIs:
 
 ### 🏪 Store Performance
 
-- Miami Beach generated the highest average sales per customer.
-- Jacksonville recorded the lowest average sales per customer.
+- Miami Beach generated the highest average sales per customer at **[$18.5]**, compared to **[$15.6]** at Jacksonville — a **[18.59%]** difference.
+- Jacksonville recorded the lowest average sales per customer among the four stores.
 
 ---
 
 ### 📈 Sales Trends
 
-- Sales fluctuate throughout the year.
-- Seasonal patterns influence customer demand.
+- Sales peaked in **[August]** at **[$437,837]**, and dipped to their lowest in **[April]** at **[$263,071]**.
+- Seasonal patterns particularly around **[Summer]** show a **[66.4%]** swing in monthly sales.
 
 ---
 
 ### 👨‍👩‍👧 Customer Demographics
 
-- Male and female customers are relatively balanced.
-- Family and single shoppers contribute differently across stores.
+- Customers split **[48.98%]** male and **[51.02%]** female across the dataset.
+- Family shoppers made up **[45.97%]** of customers versus **[54.03%]** single shoppers, with the largest gap seen at **[Miami Beach]**.
 
 ---
 
 ### 🌧️ Weather Analysis
 
-- Weather provides additional context for customer purchasing behavior.
-- Rainfall and temperature can influence operational planning.
+- Sales dropped **[40%]** on days with recorded rainfall compared to clear days.
+- Average temperature above **[75°]** correlated with a **[32%]** decrease in daily customer footfall.
 
 ---
 
 ### 📆 Shopping Behavior
 
-- Weekday and weekend sales show different purchasing patterns.
-- These insights can improve staffing and inventory planning.
+- Weekend sales averaged **[$17.5]** per day versus **[$15.6]** on weekdays a **[12.18%]** lift.
+- **[Miami Beach]** showed the strongest weekend vs. weekday gap, suggesting staffing could be adjusted accordingly.
 
 ---
 
 # 📁 Folder Structure
 
 ```text
-Florida-Retail-Store-Sales-Analysis/
+Florida-Shop-Data-Analysis/
 │
-├── dashboard/
-│   ├── Retail_Store_Sales_Analysis.pbix
-│   └── dashboard_preview.png
+├── Dashboards/
+│   └── Sales_Dashboard.png
 │
-├── data/
-│   ├── raw/
-│   │   ├── sales.csv
-│   │   ├── survey.csv
-│   │   └── weather.csv
-│   │
-│   └── processed/
-│       └── final_dataset.csv
+├── Data/
+│   └── (raw sales, survey, and weather datasets)
 │
-├── sql/
+├── Notebooks/
+│   └── (exploratory / analysis notebooks)
+│
+├── Sql/
 │   ├── 01_explore_data.sql
 │   ├── 02_data_join.sql
 │   ├── 03_create_final_table.sql
 │   └── 04_analysis_queries.sql
 │
-├── reports/
+├── Reports/
 │   └── Project_Report.pdf
 │
 ├── images/
-│   └── dashboard.png
 │
-├── README.md
-├── LICENSE
+├── Readme.md
+├── package.txt
 └── .gitignore
 ```
 
@@ -286,7 +271,7 @@ Florida-Retail-Store-Sales-Analysis/
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/florida-retail-store-sales-analysis.git
+git clone https://github.com/Madhav-tech1212/Florida-Shop-Data-Analysis.git
 ```
 
 ---
@@ -376,7 +361,7 @@ Future versions of this project could include:
 A detailed project report explaining the complete workflow, SQL transformations, dashboard design, and business insights is available below.
 
 ```text
-reports/Project_Report.pdf
+Reports/Project_Report.pdf
 ```
 
 ---
@@ -396,13 +381,13 @@ Specializing in:
 - Data Analytics
 - Business Intelligence
 
-🌐 **Portfolio**  
+🌐 **Portfolio**
 https://www.madhavk.com/
 
-💼 **LinkedIn**  
+💼 **LinkedIn**
 https://www.linkedin.com/in/madhavkarthickki
 
-🐙 **GitHub**  
+🐙 **GitHub**
 https://github.com/Madhav-tech1212
 
 ---
