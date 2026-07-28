@@ -2,6 +2,7 @@
 
 > **End-to-End Data Analytics Project using Google BigQuery, SQL & Microsoft Power BI**
 
+![alt text](Dashboards/Sales_Dashboard.png)
 
 # 📌 Project Overview
 
