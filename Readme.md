@@ -14,6 +14,20 @@ The dashboard enables stakeholders to monitor key performance indicators, compar
 
 ---
 
+# 💼 Business Problem
+
+Retail organizations often experience fluctuations in sales due to multiple factors, including customer behavior, weather conditions, and differences in store performance across locations. Since this data is stored in separate datasets, it becomes difficult to answer critical business questions such as:
+
+- Which store performs the best?
+- Which customers spend the most?
+- Does weather affect daily sales?
+- Are weekends more profitable than weekdays?
+- How can staffing and inventory be optimized?
+
+This project addresses these challenges by integrating retail sales, customer, and weather datasets into a unified analytical model. An interactive Power BI dashboard was then developed to provide actionable insights, enabling stakeholders to monitor performance, identify sales trends, understand customer behavior, and make data-driven business decisions.
+
+---
+
 # 🎯 Project Objectives
 
 - Integrate multiple retail datasets into a single analytics-ready dataset.
@@ -91,20 +105,6 @@ This project combines three datasets representing different aspects of retail op
                       ▼
             Business Insights
 ```
-
----
-
-# 💼 Business Problem
-
-Retail organizations often experience fluctuations in sales due to multiple factors, including customer behavior, weather conditions, and differences in store performance across locations. Since this data is stored in separate datasets, it becomes difficult to answer critical business questions such as:
-
-- Which store performs the best?
-- Which customers spend the most?
-- Does weather affect daily sales?
-- Are weekends more profitable than weekdays?
-- How can staffing and inventory be optimized?
-
-This project addresses these challenges by integrating retail sales, customer, and weather datasets into a unified analytical model. An interactive Power BI dashboard was then developed to provide actionable insights, enabling stakeholders to monitor performance, identify sales trends, understand customer behavior, and make data-driven business decisions.
 
 ---
 
