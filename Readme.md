@@ -201,35 +201,36 @@ The dashboard provides the following KPIs:
 
 ### 🏪 Store Performance
 
-- Miami Beach generated the highest average sales per customer at **[$18.5]**, compared to **[$15.6]** at Jacksonville — a **[18.59%]** difference.
+- Miami Beach generated the highest average sales per customer at **[$18.6]**, compared to **[$15.5]** at Jacksonville — a **[20.00%]** difference.
 - Jacksonville recorded the lowest average sales per customer among the four stores.
 
 ---
 
 ### 📈 Sales Trends
 
-- Sales peaked in **[August]** at **[$437,837]**, and dipped to their lowest in **[April]** at **[$263,071]**.
-- Seasonal patterns particularly around **[Summer]** show a **[66.4%]** swing in monthly sales.
+- 2023 sales dipped in **[February]** at **[$393,336.80]**, and peaked to their highest in **[August]** at **[$602,619.34]**.
+- 2024 sales dipped in **[February]** at **[$399,392.21]**, and peaked to their highest in **[August]** at **[$606,273.60]**.
+- Seasonal patterns particularly around **[August]** show a **[54.14%]** swing in monthly sales.
 
 ---
 
 ### 👨‍👩‍👧 Customer Demographics
 
-- Customers split **[48.98%]** male and **[51.02%]** female across the dataset.
-- Family shoppers made up **[45.97%]** of customers versus **[54.03%]** single shoppers, with the largest gap seen at **[Miami Beach]**.
+- Customers split **[48.96%]** male and **[51.04%]** female across the dataset.
+- Family shoppers made up **[47.68%]** of customers versus **[52.32%]** single shoppers, with the largest gap seen at **[Miami Beach]**.
 
 ---
 
 ### 🌧️ Weather Analysis
 
-- Sales dropped **[40%]** on days with recorded rainfall compared to clear days.
-- Average temperature above **[75°]** correlated with a **[32%]** decrease in daily customer footfall.
+- Sales dropped **[0.99%]** on days with recorded rainfall compared to clear days.
+- Average temperatures above **[75°F]** were associated with a **[28.3%]** increase in daily customer footfall compared with days at or below **[75°F]**.
 
 ---
 
 ### 📆 Shopping Behavior
 
-- Weekend sales averaged **[$17.5]** per day versus **[$15.6]** on weekdays a **[12.18%]** lift.
+- Weekend sales were **[13.12%]** higher than weekday sales, averaging **[$4,428.89]** per day versus **[$3,915.07]** on weekdays.
 - **[Miami Beach]** showed the strongest weekend vs. weekday gap, suggesting staffing could be adjusted accordingly.
 
 ---
