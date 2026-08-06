@@ -96,7 +96,7 @@ This project combines three datasets representing different aspects of retail op
 
 # 💼 Business Problem
 
-Retail organizations often store sales, customer, and operational information across multiple systems. This makes it difficult to answer important business questions such as:
+Retail organizations often experience fluctuations in sales due to multiple factors, including customer behavior, weather conditions, and differences in store performance across locations. Since this data is stored in separate datasets, it becomes difficult to answer critical business questions such as:
 
 - Which store performs the best?
 - Which customers spend the most?
@@ -104,7 +104,7 @@ Retail organizations often store sales, customer, and operational information ac
 - Are weekends more profitable than weekdays?
 - How can staffing and inventory be optimized?
 
-This project solves these challenges by integrating multiple datasets into a single analytical model and presenting insights through an interactive Power BI dashboard.
+This project addresses these challenges by integrating retail sales, customer, and weather datasets into a unified analytical model. An interactive Power BI dashboard was then developed to provide actionable insights, enabling stakeholders to monitor performance, identify sales trends, understand customer behavior, and make data-driven business decisions.
 
 ---
 
@@ -232,6 +232,18 @@ The dashboard provides the following KPIs:
 
 - Weekend sales were **[13.12%]** higher than weekday sales, averaging **[$4,428.89]** per day versus **[$3,915.07]** on weekdays.
 - **[Miami Beach]** showed the strongest weekend vs. weekday gap, suggesting staffing could be adjusted accordingly.
+
+---
+
+# Recommendations
+
+Sales are influenced by **weather, location, and customer demographics**. To maximize revenue and improve operational efficiency, retail managers should adapt their strategies based on seasonal trends and customer purchasing patterns.
+
+- Increase **staffing and inventory** during **hot summer days** to meet higher customer demand.
+- Offer **rainy-day discounts and promotions** to maintain steady foot traffic during bad weather.
+- Expand marketing campaigns and inventory in **Miami** during **peak tourism seasons**.
+- Strengthen **customer loyalty programs** in **Jacksonville** to increase repeat purchases.
+- Target **families on weekends** and **individual shoppers on weekdays** with personalized promotions.
 
 ---
 
